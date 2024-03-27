@@ -10,3 +10,5 @@ created the docker file using vi editor in ec2
 Build the docker file using "docker build -t my-random-string-app ."
 Run Using cmd "docker run -d -p 8081:8081 my-random-string-app which will create container in running state check using docker ps
 
+My Running App see here : http://3.132.215.36:8081/api/v1
+
